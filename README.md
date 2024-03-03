@@ -1,2 +1,3 @@
 # Myfirstdemo
-This is My first git repository
+This is My first git repository.
+Authotr - Rahul Kadam
